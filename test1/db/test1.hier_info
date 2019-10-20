@@ -1,0 +1,7 @@
+|test1
+switch1 => led1.DATAIN
+switch2 => led2.DATAIN
+led1 <= switch1.DB_MAX_OUTPUT_PORT_TYPE
+led2 <= switch2.DB_MAX_OUTPUT_PORT_TYPE
+
+
