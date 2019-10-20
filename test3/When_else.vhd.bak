@@ -1,0 +1,8 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+entity When_else is
+end When_else
+
+architecture Behavioral of When_else is
+begin
+end Behavoiral;
