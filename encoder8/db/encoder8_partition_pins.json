@@ -1,0 +1,53 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Edout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Edout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Edout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Edin[4]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
