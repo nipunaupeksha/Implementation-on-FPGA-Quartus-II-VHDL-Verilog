@@ -1,0 +1,15 @@
+VHDL = Very High Speed Integrated Systems Hardware Description Language
+ASIC = Application Specific IC
+
+System Representation
+=====================
+Behavioral View
+Structural View
+Physical View
+
+Levels of Abstraction
+=====================
+Transistor Level
+Gate Level
+Register transfer Level
+Processor Level
