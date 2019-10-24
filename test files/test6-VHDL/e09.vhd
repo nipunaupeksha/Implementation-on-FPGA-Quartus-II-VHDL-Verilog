@@ -17,3 +17,13 @@ architecture sel_arch of decoder4 is
         "0100" when "10",
         "1000" when others;
     end sel_arch;
+
+--e03
+wait on signals;
+wait until boolean_expressions;
+wait for time_expressions;
+
+--e04
+for index in loop_range loop
+    sequential statements;
+end loop;

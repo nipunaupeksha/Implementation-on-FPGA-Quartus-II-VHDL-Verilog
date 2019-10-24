@@ -11,3 +11,4 @@ architecture sel_arch of simple_alu is
                 src0 and src1 when "110",
                 src0 or src1 when others;
         end sel_arch;
+
